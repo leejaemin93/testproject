@@ -1,1 +1,1 @@
-print("죠씁니다")
+print("team10")
